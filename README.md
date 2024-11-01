@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics (*mostly!*)
 - 🌱 I’m currently learning SQL,R, Python and Tableu.
 - 💞️ I’m looking to collaborate on all my projects.
-- 📫 My LinkedIn profile : www.linkedin.com/in/ajit123
+- 📫 My LinkedIn profile is [here](www.linkedin.com/in/ajit123)
 - 😄 Pronouns: He
 - ⚡ **Fun fact**: It was the Covid lockdown that helped me learn coding.
 
