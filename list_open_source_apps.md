@@ -12,4 +12,5 @@
 9. **E-Book Reader** - [Koodo Reader](https://www.koodoreader.com/en) and [Calibre](https://calibre-ebook.com/download) (*Calibre is much more than an e-book reader. Go explore!*)
 10. **Money Manager** - [Money Manager Ex](https://moneymanagerex.org/) (*Desktop and Android versions are bit different!*)
 11. **Backups** - [Déjà Dup Backups](https://apps.gnome.org/en-GB/DejaDup/) (*Simple yet effective!*)
+12. **To Do List** - [Orgzly](https://www.orgzly.com/) (*text based*) and [Tasks](https://tasks.org/) (*UI based*).
  
