@@ -1,4 +1,4 @@
-# List of *open source* apps I use and recommend
+# *Open Source* apps I use and recommend
 ---
 
 1. **Operating System** - [Fedora Linux](https://fedoraproject.org/) (*Well, [Mint](https://linuxmint.com/) and [Ubuntu](https://ubuntu.com/desktop) are equally good!*)
