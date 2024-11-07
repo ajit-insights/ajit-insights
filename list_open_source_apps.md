@@ -1,4 +1,4 @@
-# List of *open source* apps I use and recommend.
+# List of *open source* apps I use and recommend
 ---
 
 1. **Operating System** - [Fedora Linux](https://fedoraproject.org/)
