@@ -5,7 +5,7 @@
 - 🎉 I'm a die-hard fan of **open source** software. See my recommendations [here](list_open_source_apps.md).
 - 📫 My LinkedIn profile is [here](www.linkedin.com/in/ajit123) and Kaggle profile is [there](https://www.kaggle.com/qwaazs).
 - 😄 Pronouns: He/him
-- ⚡ **Fun fact**: It was the Covid lockdown that helped me learn coding.
+- ⚡ **Fun fact**: Lockdown gave me lemons, so I wrote code—and it changed everything! 🍋💻
 
 
 <!---
