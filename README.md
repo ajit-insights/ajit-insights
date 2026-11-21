@@ -13,11 +13,14 @@ Data, software and careful checking: I like systems where every number traces ba
 Public work: [airport-operations-analytics](https://github.com/ajit-insights/airport-operations-analytics).
 
 ## Working with AI
-I use AI as an engineering tool, not a toy.
-- **Gemini API**: bulk extraction from scanned documents into structured tables, with confidence checks, cost metering and rate-limit pacing.
-- **Retrieval assistant**: a question-answering system over a large document archive that cites its sources and refuses when it can't.
-- **Claude**: my day-to-day pair for building and reviewing software, from data pipelines to an Android app.
-- **How I keep it honest**: every automated result is checked against the source, every data change has a dry run and an undo file, and nothing is trusted just because a model said it.
+I build with Gemini and Claude: Gemini inside the systems I run, Claude as my engineering partner. My focus is making them dependable, and I've learned that evaluation is most of the work.
+
+- **Check everything against the source.** Every model extraction from scanned documents is compared with records I already trust, and I report agreement rates. A rule-based parser I validated on about 5,000 checked records matched in over 99% of fields, so I used it instead of paying for a model call per document.
+- **Use a model only where it earns its cost.** Rules where rules work. AI for the messy parts, with confidence checks, metered cost and pacing around rate limits.
+- **Retrieval that cites or refuses.** A question-answering system over about 200,000 passages: vector and keyword search merged and reranked, numbers answered by read-only database queries, and answers with sources, or a refusal when the sources don't say.
+- **People stay in charge.** Changes come with a dry run and an undo file, suggestions need my approval, and I decide which data may ever reach a model.
+
+I don't take AI output on trust. I take it when I can show it holds up.
 
 ## Open source
 I'm a die-hard fan of open source software, and most of what I build stands on it: Python, SQLite, Kotlin, Syncthing and many others.
