@@ -12,6 +12,13 @@ Data, software and careful checking: I like systems where every number traces ba
 
 Public work: [airport-operations-analytics](https://github.com/ajit-insights/airport-operations-analytics).
 
+## Working with AI
+I use AI as an engineering tool, not a toy.
+- **Gemini API**: bulk extraction from scanned documents into structured tables, with confidence checks, cost metering and rate-limit pacing.
+- **Retrieval assistant**: a question-answering system over a large document archive that cites its sources and refuses when it can't.
+- **Claude**: my day-to-day pair for building and reviewing software, from data pipelines to an Android app.
+- **How I keep it honest**: every automated result is checked against the source, every data change has a dry run and an undo file, and nothing is trusted just because a model said it.
+
 ## Open source
 I'm a die-hard fan of open source software, and most of what I build stands on it: Python, SQLite, Kotlin, Syncthing and many others.
 See the full list of what I use [here](list_open_source_apps.md).
