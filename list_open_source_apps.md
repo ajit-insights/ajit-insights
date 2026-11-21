@@ -54,8 +54,7 @@ Most of what I build and use every day stands on open source. I pick tools that 
 
 ## What I have built on top of these
 
-- [**airport-operations-analytics**](https://github.com/ajit-insights/airport-operations-analytics): data-driven analysis of airport operations and team optimisation during a global conference.
-- My other tools (a research data platform, a personal work system, an Android day planner and a SQLite query page) are private for now. I will link them here when they are open.
+My own tools (a research data platform, a personal work system, an Android day planner and a SQLite query page) are private for now. I will link them here when they are open.
 
 ---
 

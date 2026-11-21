@@ -10,8 +10,6 @@ Data, software and careful checking: I like systems where every number traces ba
 - **Saṅgraha**: a query page for a SQLite database. One HTML file, no server, saved queries, runs in your browser.
 - **Smṛti**, **Prajñā**, **Prārambh**, **Prakṛti**: memory, learning, household finance and a balcony farm.
 
-Public work: [airport-operations-analytics](https://github.com/ajit-insights/airport-operations-analytics).
-
 ## Working with AI
 I build with Gemini and Claude: Gemini inside the systems I run, Claude as my engineering partner. My focus is making them dependable, and I've learned that evaluation is most of the work.
 
